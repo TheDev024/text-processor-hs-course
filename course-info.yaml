@@ -1,0 +1,12 @@
+type: marketplace
+title: Text Processor
+language: English
+summary: "In our everyday life, we work with data, they are all in different formats.\
+  \ One of the most known types of data is text. Sometimes we need to get some statistics\
+  \ about the texts we read, or we generate some data in text format, and we want\
+  \ it to be nicely formatted to be easy to read for others. In this project, we will\
+  \ develop a useful tool that will analyze the text, generate statistics about it,\
+  \ and format it if needed."
+programming_language: Kotlin
+content:
+- Text Processor

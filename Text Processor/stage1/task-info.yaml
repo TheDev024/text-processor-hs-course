@@ -1,0 +1,6 @@
+type: edu
+files:
+- name: src/textprocessor/Main.kt
+  visible: true
+- name: test/TextProcessorTest.kt
+  visible: false
